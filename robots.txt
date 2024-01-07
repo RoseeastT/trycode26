@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bigbos4d.ellis3dp.com/sitemap.xml
+Sitemap : http://maxwin168.org.theoryandpractice.org/sitemap.xml
